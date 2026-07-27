@@ -1,4 +1,4 @@
-# Hi there, I'm smzmay 
+# smzmay 
 
 フルスタックエンジニアを目指して勉強中の学生です。  
 
