@@ -38,5 +38,3 @@
 
 ###  GitHub Stats
 
-![smzmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzmay&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smzmay&layout=compact&theme=nord)
