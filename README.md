@@ -29,7 +29,7 @@
 
 ###  Featured Projects
 
-- 🛒 **フリーマーケットアプリ** （Java / Spring / PostgreSQL）
+- 🛒 **フリーマーケットアプリ** （Java / Spring / Spabase）
   - ユーザーが直感的に操作でき、安全に買い物ができるUI/UXを意識して開発。
 - 🎆 **花火作品プラットフォーム** （Python / Django / JavaScript）
   - 世界観に没入できるデザインと、スムーズな作品共有を目指したWebアプリ。
